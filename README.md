@@ -21,17 +21,17 @@ Your end product should look something like this: [https://wdi11-pizza.herokuapp
 
 You will be working in the `pizza-express` folder.  This repository was created using `create-react-app`, but has additional data and styling to help you get started with the site.
 
-1. Install the dependencies using `yarn` or `npm install`
+1. Install the dependencies using `npm install`
 2. Open your text editor.
-3. Start the dev server using `yarn start` or `npm start`
+3. Start the dev server using `npm start`
 
 ## Components
 Use the deployed version of the app to build your own version.  We've created a components folder to create your new components in.  Use these 8 component names to build your app:
   * Contact
   * Description
-  * Location  
+  * Location
   * LocationList
-  * MenuList
+  * Menu
   * MenuItem
   * Navbar
   * SplashImage
@@ -43,7 +43,7 @@ We have also provided css for you in `index.css`.  Many of the classes match the
   * Loop through the provided data by using `.map`.
   * Use the `Location` & `MenuItem` component as a single instance of a location or item. You will apply props to these components from the mapped array of data.
 
-## Deployment
+## Deployment (Stretch Goal)
 Once you finish your site, let's deploy it onto Heroku using the `create-react-app` buildpack.
 ```bash
 git init
@@ -54,7 +54,7 @@ git push heroku master
 ```
 
 ## Submission
-When you complete the app, submit via schoology.  Include both a link to this repo, and a link to the deployed app.
+When you complete the app, submit via Schoology.  Include both a link to this repo, and a link to the deployed app if you completed the stretch goal.
 
 ## Additional Resources
 
