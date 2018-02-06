@@ -26,7 +26,7 @@ You will be working in the `pizza-express` folder.  This repository was created 
 3. Start the dev server using `npm start`
 
 ## Components
-Use the deployed version of the app to build your own version.  We've created a components folder to create your new components in.  Use these 8 component names to build your app:
+Use the deployed version of the app to build your own version.  You will need to create a components folder to put your new components in.  Use these 8 component names to build your app:
   * Contact
   * Description
   * Location
